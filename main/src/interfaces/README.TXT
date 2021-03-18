@@ -1,1 +1,1 @@
-Interfaces de la aplicacion
+Interfaces of the app
