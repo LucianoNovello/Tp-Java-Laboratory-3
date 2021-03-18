@@ -1,1 +1,0 @@
-Grafica de la aplicacion.
