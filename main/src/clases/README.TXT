@@ -1,1 +1,1 @@
-Clases de aviones, etc;
+Class of airplanes, etc;
